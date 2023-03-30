@@ -1,0 +1,53 @@
+<!doctype html>
+ <html>
+   <head>
+     <title></title>
+   
+   </head>
+
+   <body>
+    <header>
+       <h1 id="titulo">Blog de Luna</h1>
+    </header>
+      <div>
+    <p>soy un parrafo dentro de div</p>
+      </div>
+    <section>
+       <article class="post">
+    <h2>Titulo de mi post</h2>
+  <p>descripcion de mi post</p>
+  <img src="Luna1730.png" widht="400" height="200">
+   <p>texto del articulo que hay aca y es de prueba</p>
+       </article>
+  <article class="post">
+    <h2>Titulo de mi post2</h2>
+  <p>descripcion de mi post2</p>
+  <img src="Simi.png" widht="400" height="200">
+   <p>texto del articulo que hay aca y es de prueba</p>
+       </article>
+<article class="post">
+    <h2>Titulo de mi post3</h2>
+  <p>descripcion de mi post3</p>
+  <img src="img/Lunita.png" widht="400" height="200">
+   <p>texto del articulo que hay aca y es de prueba</p>
+       </article>
+    </section>
+    <footer>
+ <a href="#titulo">ir al comienzo</a> 
+<a href="mailto:leyvalevi17@gmail.com">contactame aqui</a>
+      <p>Copyright2023</p>
+    </footer>
+
+
+
+   </body>
+
+
+
+
+
+
+
+
+
+</html>
